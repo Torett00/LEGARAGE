@@ -1,0 +1,51 @@
+/* styles.css */
+.background {
+    background-color: #e6cf95;  /* Example color */
+    height: 100vh;  /* Ensure the background covers the whole viewport */
+    margin: 0; 
+    border-radius: 5px; /* Remove any default margin */
+  }
+  .title {
+    position: relative;
+    top: 10px;                /* Keep this if you want to slightly adjust the title vertically */
+    text-align: center;       /* Center text inside the title */
+  }
+  .imagef1{
+    position: relative;
+    top: 20px;
+    width:380px;
+ 
+  }
+
+  /* Ensure the container takes up the full width */
+.container {
+    display: flex;
+    justify-content: space-between;  /* Space out the list and the image */
+    align-items: center;  /* Vertically align the items in the center */
+    padding: 20px;         /* Optional: add some padding around the container */
+    border: 2px solid #000000;
+    margin: 30px 25px;
+    padding: 7px 5px;
+    border-radius: 10px;
+
+  }
+  
+  .list {
+    flex: 1;               /* Makes the list take up the available space */
+    padding-right: 20px;   /* Space between the list and the image */
+  }
+  
+.cafeephoto{
+  position: relative;
+  top: 10px;
+  left: -40px;
+  width: 110px;
+  height: 110px;
+}
+
+
+.font1{
+
+  font-size: 20px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

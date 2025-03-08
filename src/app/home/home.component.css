@@ -54,7 +54,12 @@
     flex: 1;               /* Makes the list take up the available space */
     padding: 0px 20px;
 
-       /* Space between the list and the image */
+     
+   /* Space between the list and the image */
+  }
+  .font1{
+    padding-bottom: 20px;
+    margin-left: 15px;
   }
   .imagef1{
     position: relative;
@@ -63,9 +68,9 @@
  
   }
 .cafeephoto{
-  position: relative;
-  top: 10px;
-  left: -40px;
+  position: absolute;
+  top: 30%px;
+  left: 77%;
   width: 110px;
   height: 110px;
 }

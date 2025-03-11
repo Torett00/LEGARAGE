@@ -100,10 +100,34 @@
   width: 110px;
   height: 110px;
 }
+.ramenphoto{
+  position: absolute;
+  top: 110%;
+  left: 55%;
+  width: 100px;
+  height: 100px;
+  opacity: 0.8;
+}
+.platphoto{
+  position: absolute;
+  top: 142%;
+  left: 1%;
+  width: 100px;
+  height: 100px;
+  opacity: 1;
+}
+.croissantphoto{
+  position: absolute;
+  top: 245%;
+  left: 58%;
+  width: 100px;
+  height: 100px;
+  opacity: 0.8;
+}
 .cafeekas{
   position: absolute;
-  top: 380px;
-  left: 280px;
+  top: 600px;
+  left: 265px;
   width: 150px;
   height: 150px;
   opacity: 0.5;

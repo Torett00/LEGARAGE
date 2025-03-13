@@ -93,6 +93,16 @@
     width:300px;
  
   }
+
+  @media (min-width: 377px) {
+    .imagef1{
+      position: relative;
+      top: 20px;
+      left: 60px;
+      width:300px;
+   
+    }
+  }
 .cafeephoto{
   position: absolute;
   top: 30%;

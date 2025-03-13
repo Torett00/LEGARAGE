@@ -15,12 +15,12 @@ export class HomeComponent {
     //  // Redirect to 'target' route
 
    
-      window.open('https://www.https://www.facebook.com/profile.php?id=100086913193624.com/profile.php?id=100063595867837', '_blank');
+      window.open('https://www.facebook.com/profile.php?id=100086913193624', '_blank');
   
   }
   navigateToInsta(): void {
    
     //   // Redirect to 'target' route
-    window.open('https://www.instagram.com/https://www.instagram.com/cafe_le_garage//', '_blank');
+    window.open('https://www.instagram.com/cafe_le_garage/', '_blank');
   }
 }
